@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VOUT Pin=C2-2
+Added Pin To Net: NetName=VADJ Pin=R1-1
+Added Pin To Net: NetName=VADJ_1V8 Pin=R1-2
+Added Pin To Net: NetName=VADJ Pin=R2-1
+Added Pin To Net: NetName=VADJ_3V3 Pin=R2-2
+Added Pin To Net: NetName=VADJ Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2

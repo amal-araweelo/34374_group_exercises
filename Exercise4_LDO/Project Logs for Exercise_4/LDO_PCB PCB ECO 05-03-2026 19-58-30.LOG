@@ -1,0 +1,41 @@
+Add component: Footprint Not Found AVAG-HSMX-C190_V
+Added Component: Designator=U1(NCP718AMTADJTBG)
+Add component (AddParameter): Name = "Accuracy"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "490mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "87159789"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "4µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-9
+Add Pin To Net: Unknown Pin: Pin C1-10
+Add Pin To Net: Unknown Pin: Pin C2-9
+Add Pin To Net: Unknown Pin: Pin C2-10
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin R1-7
+Add Pin To Net: Unknown Pin: Pin R1-8
+Add Pin To Net: Unknown Pin: Pin R2-7
+Add Pin To Net: Unknown Pin: Pin R2-8
+Add Pin To Net: Unknown Pin: Pin R3-7
+Add Pin To Net: Unknown Pin: Pin R3-8
+Add Pin To Net: Unknown Pin: Pin R4-7
+Add Pin To Net: Unknown Pin: Pin R4-8
+Added Pin To Net: NetName=VOUT Pin=U1-1
+Added Pin To Net: NetName=VADJ Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=EN_PIN Pin=U1-4
+Added Pin To Net: NetName=4V5 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Add Class Member: Failed to add class member : Component DS1 HSMH-C190
+Added Member To Class: ClassName=LDO_Schematic Member=Component U1 NCP718AMTADJTBG

@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\amaln\Desktop\ALTIUM_EXERCISES\34374_group_exercises\Exercise4_LDO\LDO_PCB.PcbDoc
+Date     : 05-03-2026
+Time     : 21:36:02
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L04_P000 In net GND On Bottom Layer
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('No Net')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Split Plane  (No Net) on Inner Layer L1 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Split Plane  (No Net) on Inner Layer L3 Dead Copper - Net Not Assigned.
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P000) on Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.508mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.02mm < 0.08mm) Between Pad C1-1(170.053mm,37.226mm) on Top Layer And Pad C1-2(170.053mm,37.846mm) on Top Layer [Top Solder] Mask Sliver [0.02mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.02mm < 0.08mm) Between Pad C2-1(163.576mm,38.044mm) on Top Layer And Pad C2-2(163.576mm,38.664mm) on Top Layer [Top Solder] Mask Sliver [0.02mm]
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=0.14mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (167.386mm,36.449mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (167.386mm,37.211mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (170.053mm,33.782mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (170.053mm,36.449mm) from Top Layer to Bottom Layer 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:00
