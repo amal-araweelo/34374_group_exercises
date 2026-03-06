@@ -1,0 +1,3 @@
+Remove Pin=J1-4 From Net=EN_PIN
+Remove Pin=U1-2 From Net=VADJ
+Remove Pin=U1-4 From Net=EN_PIN

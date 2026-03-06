@@ -1,0 +1,69 @@
+Added Component: Designator=C1(CAP_0201)
+Add component (AddParameter): Name = "Capacitance"; Value = "10 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C272853"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0201)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C272853"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component: Footprint Not Found AVAG-HSMX-C190_V
+Add component: Footprint Not Found FP-HTSW-102-07-G-D-MFG
+Added Component: Designator=R1(RES_0201)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0201BRD07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "110 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0201)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0201BRD07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "390 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0201)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0201BRD07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0603)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C5197511"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NT0603BRD0711K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "960 O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-511BR-IPC_C
+Add Pin To Net: Unknown Pin: Pin C1-9
+Add Pin To Net: Unknown Pin: Pin C1-10
+Add Pin To Net: Unknown Pin: Pin C2-9
+Add Pin To Net: Unknown Pin: Pin C2-10
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin R1-7
+Add Pin To Net: Unknown Pin: Pin R1-8
+Add Pin To Net: Unknown Pin: Pin R2-7
+Add Pin To Net: Unknown Pin: Pin R2-8
+Add Pin To Net: Unknown Pin: Pin R3-7
+Add Pin To Net: Unknown Pin: Pin R3-8
+Add Pin To Net: Unknown Pin: Pin R4-7
+Add Pin To Net: Unknown Pin: Pin R4-8
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Added Member To Class: ClassName=LDO_Schematic Member=Component C1 4.7 µF
+Added Member To Class: ClassName=LDO_Schematic Member=Component C2 4.7 µF
+Add Class Member: Failed to add class member : Component DS1 HSMH-C190
+Add Class Member: Failed to add class member : Component J1 HTSW-102-07-G-D
+Added Member To Class: ClassName=LDO_Schematic Member=Component R1 110 kO
+Added Member To Class: ClassName=LDO_Schematic Member=Component R2 390 kO
+Added Member To Class: ClassName=LDO_Schematic Member=Component R3 220 kO
+Added Member To Class: ClassName=LDO_Schematic Member=Component R4 960 O
+Add Class Member: Failed to add class member : Component U1 NCP718AMTADJTBG
