@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=LDO_Schematic Member=R?
+Added Component: Designator=R4(RES_0201)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0201BRD07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_2 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Member To Class: ClassName=LDO_Schematic Member=Component R4 960 O
