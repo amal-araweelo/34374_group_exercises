@@ -1,0 +1,20 @@
+Change Component Comment : Designator=R6 Old Comment=49.9k  New Comment=49.9k
+Change Component Comment : Designator=R5 Old Comment=100k  New Comment=100k
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Add Pin To Net: Unknown Pin: Pin C2-9
+Add Pin To Net: Unknown Pin: Pin C2-10
+Add Pin To Net: Unknown Pin: Pin C3-9
+Add Pin To Net: Unknown Pin: Pin C3-10
+Add Pin To Net: Unknown Pin: Pin C5-9
+Add Pin To Net: Unknown Pin: Pin C5-10
+Add Pin To Net: Unknown Pin: Pin C6-9
+Add Pin To Net: Unknown Pin: Pin C6-10
+Add Pin To Net: Unknown Pin: Pin C7-9
+Add Pin To Net: Unknown Pin: Pin C7-10
+Add Pin To Net: Unknown Pin: Pin C8-9
+Add Pin To Net: Unknown Pin: Pin C8-10
+Add Pin To Net: Unknown Pin: Pin R5-7
+Add Pin To Net: Unknown Pin: Pin R5-8
+Add Pin To Net: Unknown Pin: Pin R6-7
+Add Pin To Net: Unknown Pin: Pin R6-8
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL1_1
