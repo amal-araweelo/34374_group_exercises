@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VIN Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=VOUT Pin=P1-3
+Removed Member From Class: ClassName=Buck Member=C8
+Removed Member From Class: ClassName=Buck Member=P1
+Change Component Comment : Designator=R6 Old Comment=49.9k  New Comment=49.9k
+Change Component Comment : Designator=R5 Old Comment=100k  New Comment=100k
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Add Pin To Net: Unknown Pin: Pin C1-9
+Add Pin To Net: Unknown Pin: Pin C1-10
+Add Pin To Net: Unknown Pin: Pin C2-9
+Add Pin To Net: Unknown Pin: Pin C2-10
+Add Pin To Net: Unknown Pin: Pin C3-9
+Add Pin To Net: Unknown Pin: Pin C4-9
+Add Pin To Net: Unknown Pin: Pin C4-10
+Add Pin To Net: Unknown Pin: Pin C5-9
+Add Pin To Net: Unknown Pin: Pin C5-10
+Add Pin To Net: Unknown Pin: Pin C6-9
+Add Pin To Net: Unknown Pin: Pin C6-10
+Add Pin To Net: Unknown Pin: Pin R1-7
+Add Pin To Net: Unknown Pin: Pin R2-8
+Added Pin To Net: NetName=VIN Pin=U1-8
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL1_1
+Added Pin To Net: NetName=NetC3_10 Pin=U1-6
+Added Net: Name=NetC3_10
+Added Member To Class: ClassName=Buck Member=Component C4 10pF
