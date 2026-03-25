@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VIN Pin=C5-2
+Removed Pin From Net: NetName=VIN Pin=C6-2
+Removed Pin From Net: NetName=VIN Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Member From Class: ClassName=Buck Member=P1
+Change Component Comment : Designator=C6 Old Comment=0.1µF New Comment=10pF
+Change Component Comment : Designator=C1 Old Comment=10pF New Comment=22µF
+Change Component Comment : Designator=C2 Old Comment=22µF New Comment=0.1µF
+Change Component Comment : Designator=C3 Old Comment=22µF New Comment=10pF
+Change Component Comment : Designator=C4 Old Comment=22µF New Comment=10pF
+Change Component Comment : Designator=C5 Old Comment=22µF New Comment=10pF
+Add component: Footprint Not Found PHOE-1725656-2
+Add component: Footprint Not Found PHOE-1725656-2
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=C2-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=VIN Pin=U1-8
+Change Net Name : Old Net Name=GND New Net Name=VOUT
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetC3_2 Pin=R2-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-6
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=Buck Member=Component C2 0.1µF
+Added Member To Class: ClassName=Buck Member=Component C3 10pF
+Added Member To Class: ClassName=Buck Member=Component C5 10pF
+Added Member To Class: ClassName=Buck Member=Component C6 10pF
+Add Class Member: Failed to add class member : Component J1 1725656
+Add Class Member: Failed to add class member : Component J2 1725656
+Added Rule: Name=Schematic Supply Nets_6
