@@ -1,0 +1,4 @@
+Remove Pin=D1-1 From Net=3V3
+Change Component Footprint: Designator=L1 Old Footprint=FP-LQG15HH_02-IPC_B New Footprint=FP-LQG15HH_02-IPC_B
+Change Component Footprint: Designator=J1 Old Footprint=FP-USB4105-GF-A-MFG New Footprint=FP-USB4105-GF-A-MFG
+Change Component Footprint: Designator=P1 Old Footprint=HRS-U.FL-R-SMT-3_V New Footprint=HRS-U.FL-R-SMT-3_V
