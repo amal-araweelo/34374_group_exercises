@@ -1,0 +1,187 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=DS2-2
+Removed Pin From Net: NetName=GND Pin=J1-A1-B12
+Removed Pin From Net: NetName=VIN Pin=J1-A4-B9
+Removed Pin From Net: NetName=GND Pin=J1-B1-A12
+Removed Pin From Net: NetName=VIN Pin=J1-B4-A9
+Removed Pin From Net: NetName=RFIN Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=RFIN Pin=P1-3
+Removed Pin From Net: NetName=3V3 Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=TXD Pin=P3-3
+Removed Pin From Net: NetName=RXD Pin=P3-4
+Removed Pin From Net: NetName=PPS Pin=R2-1
+Removed Pin From Net: NetName=NetD1_3 Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=TXD Pin=U2-2
+Removed Pin From Net: NetName=RXD Pin=U2-3
+Removed Pin From Net: NetName=PPS Pin=U2-4
+Removed Pin From Net: NetName=EINT Pin=U2-5
+Removed Pin From Net: NetName=VBAT Pin=U2-6
+Removed Pin From Net: NetName=3V3 Pin=U2-7
+Removed Pin From Net: NetName=3V3 Pin=U2-8
+Removed Pin From Net: NetName=RST Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Pin From Net: NetName=RFIN Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=SAFE Pin=U2-18
+Removed Member From Class: ClassName=GPS_Schematic Member=L1
+Removed Member From Class: ClassName=GPS_Schematic Member=P3
+Removed Member From Class: ClassName=GPS_Schematic Member=U2
+Change Component Footprint: Designator=P2 Old Footprint=61300411121 New Footprint=CMP-1502-02092-3
+Change Component Footprint: Designator=D1 Old Footprint=FP-SOT23-IPC_C New Footprint=FP-SOT23-IPC_C
+Change Component Footprint: Designator=J1 Old Footprint=FP-USB4105-GF-A-MFG New Footprint=UFLRSMT10
+Change Component Footprint: Designator=P1 Old Footprint=HRS-U.FL-R-SMT-3_V New Footprint=CMP-1502-02092-3
+Change Component Footprint: Designator=R3 Old Footprint=RES_0201 New Footprint=RES_0402
+Change Component Comment : Designator=R3 Old Comment=10 O New Comment=10 kO
+Change Component Comment : Designator=P2 Old Comment=61300411121 New Comment=691386700004
+Change Component Comment : Designator=C4 Old Comment=CAP_0402 New Comment=1 uF
+Change Component Comment : Designator=R4 Old Comment=RES_0402 New Comment=5.1 kO
+Change Component Comment : Designator=P1 Old Comment=U.FL-R-SMT-1(01) New Comment=691386700004
+Change Component Comment : Designator=J1 Old Comment=USB4105-GF-A New Comment=U.FL-R-SMT_10_
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-USB4105-GF-A-MFG"; UniqueID = "\PCXBNWZH" ("\PCXBNWZH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/u.fl-r-smt-10/hirose-electric?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/185/hiros05388_1-2269186.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "798-U.FL-R-SMT10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/U.FL-R-SMT10?qs=Ux3WWAnHpjBT1CWD8UMEMQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HRS-U.FL-R-SMT-3_V"; UniqueID = "\NHYLVRMK" ("\NHYLVRMK")
+Change component parameters (AddParameter): Name = "Color"; Value = "Grey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "14A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "130°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5.0038mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "61300411121"; UniqueID = "\RCUVZOWA" ("\RCUVZOWA")
+Change component parameters (AddParameter): Name = "Color"; Value = "Grey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "14A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "130°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5.0038mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_0201"; UniqueID = "\EBYRGXYS" ("\EBYRGXYS")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=B1(MAXM10M00B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MAX-M10M-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max-m10m-00b/u-blox?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.u-blox.com/sites/default/files/documents/MAX-M10M_IntegrationManual_UBX-22038241.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX-M10M-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "377-MAX-M10M-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/u-blox/MAX-M10M-00B?qs=A6eO%252BMLsxmQGh8%2FJ1ZmexA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=BT1(BAT_MS621FE-FL11E)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MS621FE-FL11E/Seiko+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seiko Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS621FE-FL11E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFP-128 Seiko"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MS621FE-FL11E/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MS621FE-FL11E/Seiko+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CUI_UJC-HP-3-SMT-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UJC-HP-3-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0201)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0201BRD07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=TXD Pin=B1-2
+Added Pin To Net: NetName=RXD Pin=B1-3
+Added Pin To Net: NetName=PPS Pin=B1-4
+Added Pin To Net: NetName=EINT Pin=B1-5
+Added Pin To Net: NetName=VBAT Pin=B1-6
+Added Pin To Net: NetName=3V3 Pin=B1-7
+Added Pin To Net: NetName=3V3 Pin=B1-8
+Added Pin To Net: NetName=RST Pin=B1-9
+Added Pin To Net: NetName=GND Pin=B1-10
+Added Pin To Net: NetName=RFIN Pin=B1-11
+Added Pin To Net: NetName=GND Pin=B1-12
+Added Pin To Net: NetName=SAFE Pin=B1-18
+Added Pin To Net: NetName=GND Pin=BT1-NEG
+Added Pin To Net: NetName=VBAT Pin=BT1-POS
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBAT Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=PPS Pin=DS2-2
+Added Pin To Net: NetName=RFIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=VIN Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=VIN Pin=J2-B9
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=TXD Pin=P1-3
+Added Pin To Net: NetName=RXD Pin=P1-4
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=RST Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetD1_3 Pin=R6-1
+Added Pin To Net: NetName=VBAT Pin=R6-2
+Added Pin To Net: NetName=VIN Pin=U1-3
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=R5-1
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=R4-2
+Added Net: Name=NetJ2_B5
+Added Member To Class: ClassName=GPS_Schematic Member=Component B1 MAX-M10M-00B
+Added Member To Class: ClassName=GPS_Schematic Member=Component BT1 MS621FE-FL11E
+Added Member To Class: ClassName=GPS_Schematic Member=Component C5 1 uF
+Added Member To Class: ClassName=GPS_Schematic Member=Component J2 UJC-HP-3-SMT-TR
+Added Member To Class: ClassName=GPS_Schematic Member=Component R5 5.1 kO
+Added Member To Class: ClassName=GPS_Schematic Member=Component R6 3.3 kO
