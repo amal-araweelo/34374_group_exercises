@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=D1 Old Footprint=FP-SOT23-IPC_C New Footprint=FP-SOT23-IPC_C
+Added Pin To Net: NetName=VBAT Pin=B1-6
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=RST Pin=P2-1
+Added Pin To Net: NetName=VIN Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=EINT Pin=B1-5
+Added Pin To Net: NetName=EINT Pin=P2-2
+Added Net: Name=EINT
+Added Pin To Net: NetName=PPS Pin=B1-4
+Added Pin To Net: NetName=PPS Pin=DS2-2
+Added Pin To Net: NetName=PPS Pin=P2-3
+Added Net: Name=PPS
+Added Pin To Net: NetName=RFIN Pin=B1-11
+Added Pin To Net: NetName=RFIN Pin=J1-1
+Added Net: Name=RFIN
+Added Pin To Net: NetName=RXD Pin=B1-3
+Added Pin To Net: NetName=RXD Pin=P1-4
+Added Net: Name=RXD
+Added Pin To Net: NetName=SAFE Pin=B1-18
+Added Pin To Net: NetName=SAFE Pin=P2-4
+Added Net: Name=SAFE
+Added Pin To Net: NetName=TXD Pin=B1-2
+Added Pin To Net: NetName=TXD Pin=P1-3
+Added Net: Name=TXD

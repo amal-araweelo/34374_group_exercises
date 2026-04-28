@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SAFE Pin=P2-4
+Added Component: Designator=R?(RES_1206)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C229586"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC1206FR-07390KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "390 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SAFE Pin=R?-1
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=R?-2
+Added Net: Name=NetP2_4
+Added Member To Class: ClassName=GPS_Schematic Member=Component R? 0 O

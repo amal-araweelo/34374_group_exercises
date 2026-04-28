@@ -1,0 +1,89 @@
+Add component: Footprint Not Found MAXM10M00B
+Add component: Footprint Not Found BAT_MS621FE-FL11E
+Add component: Footprint Not Found CAP_0402
+Add component: Footprint Not Found CAP_0402
+Add component: Footprint Not Found CAP_0402
+Add component: Footprint Not Found CAP_0402
+Add component: Footprint Not Found CAP_0402
+Add component: Footprint Not Found FP-SOT23-IPC_C
+Add component: Footprint Not Found HSMH-C190
+Add component: Footprint Not Found HSMH-C190
+Add component: Footprint Not Found UFLRSMT10
+Add component: Footprint Not Found CUI_UJC-HP-3-SMT-TR
+Add component: Footprint Not Found CMP-1502-02092-3
+Add component: Footprint Not Found CMP-1502-02092-3
+Add component: Footprint Not Found 61300211121
+Add component: Footprint Not Found RES_0402
+Add component: Footprint Not Found RES_0402
+Add component: Footprint Not Found RES_0402
+Add component: Footprint Not Found RES_0402
+Add component: Footprint Not Found RES_0402
+Add component: Footprint Not Found RES_0201
+Add component: Footprint Not Found FP-SOT25-IPC_C
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-7
+Add Pin To Net: Unknown Pin: Pin B1-8
+Add Pin To Net: Unknown Pin: Pin B1-9
+Add Pin To Net: Unknown Pin: Pin B1-10
+Add Pin To Net: Unknown Pin: Pin B1-12
+Add Pin To Net: Unknown Pin: Pin BT1-NEG
+Add Pin To Net: Unknown Pin: Pin BT1-POS
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J2-A5
+Add Pin To Net: Unknown Pin: Pin J2-A9
+Add Pin To Net: Unknown Pin: Pin J2-A12
+Add Pin To Net: Unknown Pin: Pin J2-B5
+Add Pin To Net: Unknown Pin: Pin J2-B9
+Add Pin To Net: Unknown Pin: Pin J2-B12
+Add Pin To Net: Unknown Pin: Pin J2-S1
+Add Pin To Net: Unknown Pin: Pin J2-S2
+Add Pin To Net: Unknown Pin: Pin J2-S3
+Add Pin To Net: Unknown Pin: Pin J2-S4
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Class Member: Failed to add class member : Component B1 MAX-M10M-00B
+Add Class Member: Failed to add class member : Component BT1 MS621FE-FL11E
+Add Class Member: Failed to add class member : Component C1 1uF
+Add Class Member: Failed to add class member : Component C2 1uF
+Add Class Member: Failed to add class member : Component C3 100 nF
+Add Class Member: Failed to add class member : Component C4 1 uF
+Add Class Member: Failed to add class member : Component C5 1 uF
+Add Class Member: Failed to add class member : Component D1 BAT54-7-F
+Add Class Member: Failed to add class member : Component DS1 HSMH-C190
+Add Class Member: Failed to add class member : Component DS2 HSMH-C190
+Add Class Member: Failed to add class member : Component J1 U.FL-R-SMT_10_
+Add Class Member: Failed to add class member : Component J2 UJC-HP-3-SMT-TR
+Add Class Member: Failed to add class member : Component P1 691386700004
+Add Class Member: Failed to add class member : Component P2 691386700004
+Add Class Member: Failed to add class member : Component P4 61300211121
+Add Class Member: Failed to add class member : Component R1 330 O
+Add Class Member: Failed to add class member : Component R2 330 O
+Add Class Member: Failed to add class member : Component R3 10 kO
+Add Class Member: Failed to add class member : Component R4 5.1 kO
+Add Class Member: Failed to add class member : Component R5 5.1 kO
+Add Class Member: Failed to add class member : Component R6 3.3 kO
+Add Class Member: Failed to add class member : Component U1 AP2112K-3.3TRG1

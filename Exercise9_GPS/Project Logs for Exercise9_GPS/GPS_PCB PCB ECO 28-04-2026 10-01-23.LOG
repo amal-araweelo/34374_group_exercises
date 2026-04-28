@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SAFE Pin=R?-1
+Removed Member From Class: ClassName=GPS_Schematic Member=R?
+Added Pin To Net: NetName=SAFE Pin=P2-4
