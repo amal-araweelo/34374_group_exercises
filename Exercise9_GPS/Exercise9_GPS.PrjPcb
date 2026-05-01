@@ -33,13 +33,13 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
+CrossRefSheetStyle=2
+CrossRefLocationStyle=0
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -150,6 +150,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWJBEGOA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Exercise9_GPS\Design Rule Check - GPS_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
