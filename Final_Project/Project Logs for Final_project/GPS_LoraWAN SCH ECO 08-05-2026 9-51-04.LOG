@@ -1,0 +1,16 @@
+Remove Pin=U4A-12 From Net=INT_ACC
+Remove Pin=U5-4 From Net=SDA
+Remove Pin=U6-1 From Net=TX_LORAWAN
+Remove Pin=U6-2 From Net=RX_LORAWAN
+Remove Pin=U6-12 From Net=RF_LORAWAN
+Remove Pin=U6-22 From Net=RST_LORA
+Remove Pin=U6-24 From Net=3V3
+Change Component Footprint: Designator=SW1 Old Footprint=FP-JS202011SCQN-MFG New Footprint=FP-JS202011SCQN-MFG
+Change Component Designator: OldDesignator=B1 NewDesignator=B?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=J4 NewDesignator=J?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?

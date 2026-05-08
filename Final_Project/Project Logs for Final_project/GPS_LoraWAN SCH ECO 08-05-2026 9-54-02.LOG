@@ -1,0 +1,10 @@
+Remove Pin=U4A-12 From Net=INT_ACC
+Change Component Footprint: Designator=SW1 Old Footprint=FP-JS202011SCQN-MFG New Footprint=FP-JS202011SCQN-MFG
+Change Component Designator: OldDesignator=B1 NewDesignator=B?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=J4 NewDesignator=J?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
