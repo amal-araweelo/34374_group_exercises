@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=3V3 Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R7-2
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=3V3 Pin=U4-1
+Removed Pin From Net: NetName=3V3 Pin=U4-5
+Removed Pin From Net: NetName=RX_GPS Pin=U4-8
+Removed Pin From Net: NetName=TX_GPS Pin=U4-9
+Removed Pin From Net: NetName=RST_LORA Pin=U4-10
+Removed Pin From Net: NetName=EXTINT Pin=U4-11
+Removed Pin From Net: NetName=GND Pin=U4-16
+Removed Pin From Net: NetName=3V3 Pin=U4-17
+Removed Pin From Net: NetName=RX_LORAWAN Pin=U4-24
+Removed Pin From Net: NetName=TX_LORAWAN Pin=U4-25
+Removed Pin From Net: NetName=GND Pin=U4-32
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-6
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Pin From Net: NetName=GND Pin=U5-8
+Removed Pin From Net: NetName=3V3 Pin=U5-9
+Removed Pin From Net: NetName=3V3 Pin=U5-10
+Change Component Comment : Designator=C3 Old Comment=0.1 uF New Comment=0.1 uF, X7R
+Change Component Comment : Designator=C1 Old Comment=1 uF New Comment=1 uF, X7R
+Change Component Comment : Designator=C2 Old Comment=1 uF New Comment=1 uF, X7R
+Change Component Comment : Designator=C7 Old Comment=1 uF New Comment=1 uF, X7R
+Change Component Comment : Designator=C4 Old Comment=4.7 uF New Comment=4.7 uF, X7R
+Change Component Comment : Designator=C5 Old Comment=4.7 uF New Comment=4.7 uF, X7R
+Change Component Comment : Designator=C6 Old Comment=100 nF New Comment=100 nF, X7R
+Change Component Description : Designator=U6 Old Description= New Description=Low-power, long-range transceiver module based on the STM32WLE5CC
+Change Component Description : Designator=C4 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitor MLCC
+Change Component Description : Designator=C5 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitor MLCC
+Change Component Description : Designator=C1 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0402 10% HI CV
+Change Component Description : Designator=C2 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0402 10% HI CV
+Change Component Description : Designator=C7 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0402 10% HI CV
+Change Component Description : Designator=C3 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT 16 V 0.1uF X7R 0402 10%
+Change Component Description : Designator=C6 Old Description=Capacitor SMD 0402 Generic New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP
+Change Component Description : Designator=R10 Old Description=Resistor SMD 0201 Generic New Description=Thick Film Resistors - SMD 0201 10K0 1% Lead Free
+Change Component Description : Designator=R1 Old Description=Resistor SMD 0402 Generic New Description=Thick Film Resistors - SMD 330 OHM 5%
+Change Component Description : Designator=R9 Old Description=Resistor SMD 0402 Generic New Description=Thick Film Resistors - SMD 0402 10K0 1% Lead Free
+Change Component Description : Designator=R2 Old Description=Resistor SMD 0402 Generic New Description=Thick Film Resistors - SMD D10/CRCW0402-P 50 2K2 0.5% ET7 e3
+Change Component Description : Designator=R5 Old Description=Resistor SMD 0402 Generic New Description=Thick Film Resistors - SMD RCA0402 2K0 5% 200 ET7 e3
+Change Component Description : Designator=R3 Old Description=Resistor SMD 0402 Generic New Description=Thin Film Resistors - SMD MCS 0402-50 1% E0 5K1
+Change Component Description : Designator=R4 Old Description=Resistor SMD 0402 Generic New Description=Thin Film Resistors - SMD MCS 0402-50 1% E0 5K1
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_0402"; UniqueID = "\EKSXWHDM" ("\EKSXWHDM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-CC402KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_0402"; UniqueID = "\PKWVSXZE" ("\PKWVSXZE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-0402X7R104KT2AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP_0402"; UniqueID = "\NKJQFCKH" ("\NKJQFCKH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0402JRNPO9BN101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0402"; UniqueID = "\HDOWRTGW" ("\HDOWRTGW")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "652-CR0402JW-331GLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_0402"; UniqueID = "\ZYTIRRLG" ("\ZYTIRRLG")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "594-MCS04020C5101FE0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_0402"; UniqueID = "\SZGOOWPW" ("\SZGOOWPW")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-RCA04022K00JNED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0402"; UniqueID = "\INLQTYIJ" ("\INLQTYIJ")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "791-WR04X1002FTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES_0201"; UniqueID = "\TCEXZXOS" ("\TCEXZXOS")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C852221"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "791-WR02X1002FAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B1" ("B1"); Footprint = "MAXM10M00B"; UniqueID = "\DMCQCLST" ("\DMCQCLST")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MAX-M10M-00B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max-m10m-00b/u-blox?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.u-blox.com/sites/default/files/documents/MAX-M10M_IntegrationManual_UBX-22038241.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "u-blox"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MAX-M10M-00B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "377-MAX-M10M-00B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/u-blox/MAX-M10M-00B?qs=A6eO%252BMLsxmQGh8%2FJ1ZmexA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "377-MAX-M10M-00B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "XCVR_RAK3172"; UniqueID = "\VGBWOGDV" ("\VGBWOGDV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "RAK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RAK3172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "RAK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RAK3172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Subtotal 1"; Value = "5,99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "5,99"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_0402"; UniqueID = "\PJANOSVF" ("\PJANOSVF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R5BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-CC402KRX7R5BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_0402"; UniqueID = "\XJUJBFCE" ("\XJUJBFCE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC1206KFX7R9BB475"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-CC1206KFX7R9B475"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_0402"; UniqueID = "\WKJMTWAI" ("\WKJMTWAI")
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW04022K20DHEDP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04022K20DHEDP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "UFLRSMT10"; UniqueID = "\SUKPYHZB" ("\SUKPYHZB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/u.fl-r-smt-10/hirose-electric?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/185/hiros05388_1-2269186.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/U.FL-R-SMT10?qs=Ux3WWAnHpjBT1CWD8UMEMQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "798-U.FL-R-SMT10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "UFLRSMT10"; UniqueID = "\RXNAWXEU" ("\RXNAWXEU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/u.fl-r-smt-10/hirose-electric?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/185/hiros05388_1-2269186.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "U.FL-R-SMT(10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/U.FL-R-SMT10?qs=Ux3WWAnHpjBT1CWD8UMEMQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "798-U.FL-R-SMT10"; VariantName = "[No Variations]"

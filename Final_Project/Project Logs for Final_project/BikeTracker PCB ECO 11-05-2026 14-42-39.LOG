@@ -1,0 +1,54 @@
+Added Component: Designator=R1(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C93947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "150 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_RAW Pin=R1-1
+Added Pin To Net: NetName=BAT_SENSE Pin=R1-2
+Added Pin To Net: NetName=PACK_NEG Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R3-2
+Added Pin To Net: NetName=NetJ1_A5 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=RST Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Member To Class: ClassName=Power Subsystem Member=Component R1 330 O
+Added Member To Class: ClassName=Power Subsystem Member=Component R2 2.2 kO
+Added Member To Class: ClassName=Power Subsystem Member=Component R3 5.1 kO
+Added Member To Class: ClassName=Power Subsystem Member=Component R4 5.1 kO
+Added Member To Class: ClassName=Power Subsystem Member=Component R5 2 kO
+Added Member To Class: ClassName=GPS_LoraWAN Member=Component R9 10 kO
